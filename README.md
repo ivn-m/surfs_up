@@ -11,3 +11,4 @@ This analysis was performed in order to determine if a surf and ice cream busine
  - Variability in temperature, presented by the standard deviation, is not so different between June and December. 
 
 ## Summary
+-High-level summary: Given lack of weather variability, presented by temperatures in June and December, creating a surf and ice cream business in Oahu would be sustainable year round.
