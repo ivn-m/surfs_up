@@ -14,4 +14,5 @@ This analysis was performed in order to determine if a surf and ice cream busine
 -High-level summary: Given lack of weather variability, presented by temperatures in June and December, creating a surf and ice cream business in Oahu would be sustainable year round.
 ![image](https://user-images.githubusercontent.com/93107507/151030356-66869211-80f9-42e8-9123-82d11380bee4.png)
 ![image](https://user-images.githubusercontent.com/93107507/151030382-81c40b89-3188-4bc6-9b46-5971b7847ce5.png)
+
 - While the max precipitation for both June and December both are high (4.4 and 6.4 respectively), the standard deviation is less than 1 for both showing that there is little variabilty/most data is clustered around the average precipitation. The average precipitation for both June and December are incredibly low. 
