@@ -8,4 +8,6 @@ This analysis was performed in order to determine if a surf and ice cream busine
 ![image](https://user-images.githubusercontent.com/93107507/151019283-85968e5b-367e-4247-9490-40ea80b655d3.png)
  - While temperatures are slighly different between the two months, the average temperature seems to be relatively stable considering June being a summer month and December being a winter month.
  - While there is a 8 degree temperature difference between the minimum temperatures experienced in June and December, the maximum temperatures are relatively similar. 
- - 
+ - Variability in temperature, presented by the standard deviation, is not so different between June and December. 
+
+## Summary
